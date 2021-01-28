@@ -51,6 +51,8 @@ Feel free to elaborate on how you would improve any of the following topics
 
 * Additional Features:
 
+### OUTPUT
+![alt tag](Git-Topic.PNG)
 ---
 
 ### User Guide:
